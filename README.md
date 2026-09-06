@@ -188,3 +188,9 @@ StateとConditional Edgeによってワークフロー全体を制御するこ�
 
 RAG、Web検索、回答生成、Reflectionをそれぞれ独立したNodeとして扱うことで、
 処理の役割を分離しながら、条件分岐と再実行を含むAIエージェントの構成を実装しました。
+
+## 動作確認環境
+
+- CPU: AMD Ryzen 7 5700X
+- RAM: 32GB
+- GPU: NVIDIA GeForce RTX 4070 12GB
